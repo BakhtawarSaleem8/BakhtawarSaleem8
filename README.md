@@ -3,5 +3,6 @@ i am a Frontend developer with also skilled in backend , i have expertise in rea
 
 skills :
 FRONTEND: HTML , CSS , JS , REACT JS , TYPESCRIPT , REDUX , REACT-QUERY , TAILWIND
+
 BACKEND: nodejs , mongodb 
 --->
